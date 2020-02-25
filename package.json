@@ -24,7 +24,6 @@
     "start": "react-scripts start",
     "build": "yarn cache clean && react-scripts build",
     "now-build": "yarn cache clean && react-scripts build && yarn build-storybook",
-    "build_temp": "now --prod && ",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",

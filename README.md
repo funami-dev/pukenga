@@ -1,6 +1,7 @@
 # HR/TM-Tool: Skillmatrix Job interview Helper
 
 For a better QnA at Skillmatrix in job interviews or comparing (Teams and) Teammembers. For a better Team-Splitting decision or HR-Planing.
+![alt text](https://raw.githubusercontent.com/DerFu/pukenga/master/public/pukenga.png)
 
 Demo: [https://pukenga.now.sh/](https://pukenga.now.sh/).
 
@@ -22,6 +23,8 @@ In the project directory, you can run:
 ### `yarn storybook`
 
 Runs a storybook for Component Driven Development.
+
+Demo: [https://pukenga-storybook.now.sh/](https://pukenga-storybook.now.sh/).
 
 ### `yarn start`
 
