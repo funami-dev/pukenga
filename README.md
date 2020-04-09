@@ -15,6 +15,7 @@ Demo: [https://pukenga.now.sh/](https://pukenga.now.sh/).
 - [x] Feat: Filter only matches
 - [ ] Feat: Applicants caroussel
 - [ ] Feat: Notes
+- [ ] Feat: Question-Pool and estimate to according to matrix and/or requested Skills
 
 ## Available Scripts
 
